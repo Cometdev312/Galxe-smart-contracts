@@ -37,3 +37,5 @@ You can read more about Project Galaxy on our [documentation page](https://docs.
 ## License
 
 Project Galaxy contracts source code is licensed under the [Apache License 2.0](LICENSE)
+
+If you have any question with this project, feel free to reach out.
